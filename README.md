@@ -1,4 +1,5 @@
 # [Baraka Hygienics Business Intelligence Project](#)
+A Business Intelligence project evaluating and improving BI maturity for Baraka Hygienics using Streamlit and Google Sheets.
 
 ## Introduction  
 This project assessed the Business Intelligence (BI) maturity of Baraka Hygienics, a small manufacturing enterprise in Mombasa, Kenya. Using the Capability Maturity Model Integration (CMMI) framework, the team evaluated the company's BI practices and identified key areas for improvement. The deliverables include a BI maturity report, an actionable Google Sheets dashboard, and a Streamlit-based KPI dashboard designed to empower the company with actionable insights for strategic growth.
