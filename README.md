@@ -20,8 +20,6 @@ This repository contains the following components of the project:
 ### Google Sheets Dashboard  
 The Google Sheets dashboard provides an intuitive tool for tracking and assessing the BI maturity of Baraka Hygienics. It features an interactive self-assessment tool, which calculates the company’s BI maturity score across critical categories, a gap analysis visualizing target vs. current states, and prioritized activities to achieve growth. The dashboard is cost-effective, user-friendly, and directly integrates with the company's existing workflows.
 
-- [Google Sheets Dataset](data/google_sheets_data.csv): Processed dataset used in the project.
-
 ### Streamlit KPI Dashboard  
 The Streamlit KPI dashboard offers a robust platform for data-driven decision-making by enabling real-time financial, product, and predictive analyses. With features such as profit-cost analysis, product performance insights, and sales forecasting, the dashboard provides stakeholders with actionable intelligence to optimize costs, enhance product strategies, and anticipate future trends. Its visual and interactive design ensures accessibility even for users with minimal technical expertise.
 
