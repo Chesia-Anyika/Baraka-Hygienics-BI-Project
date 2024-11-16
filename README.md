@@ -47,7 +47,7 @@ This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICEN
 ---
 
 ## Project Documents
-- 📄 **[Project Report (PDF)]([docs/project_report.pdf](https://drive.google.com/file/d/1XQznQPfsV8UG0-uMFzl6iuvd6ZkFDusx/view?usp=sharing))**: A comprehensive analysis and summary of findings.
+- 📄 **[Project Report (PDF)]([docs/project_report.pdf](https://drive.google.com/file/d/1XQznQPfsV8UG0-uMFzl6iuvd6ZkFDusx/view?usp=sharing)**: A comprehensive analysis and summary of findings.
 - 📊 **[Presentation (PowerPoint)](https://www.canva.com/design/DAGKO3l7G5g/9rXwhebyvfadTvu9FQRyLQ/view?utm_content=DAGKO3l7G5g&utm_campaign=designshare&utm_medium=link&utm_source=editor)**: Key insights presented visually.
 
 ---
